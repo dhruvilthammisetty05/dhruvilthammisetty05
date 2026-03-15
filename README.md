@@ -1,63 +1,142 @@
-# 👋 Hey there! I'm Thammisetty Venkata Dhruvil
+<h1 align="center">Hi 👋, I'm Thammisetty Venkata Dhruvil</h1>
 
-💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast | ⛓ Blockchain Developer  
-
-🎓 B.Tech CSE (Cybersecurity) @ NIIT University  
-🌍 Rajasthan, India  
-🚀 Building secure and scalable digital systems  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Cybersecurity+Engineer;Full+Stack+Developer;Blockchain+Security+Enthusiast;AI+Driven+Security+Researcher" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-- 🔭 Currently working on **Blockchain & Cybersecurity Projects**
-- 🌱 Learning **AI-driven Security & Advanced System Architecture**
-- 👯 Looking to collaborate on **Open Source Security Projects**
-- 💬 Ask me about **Java, MERN Stack, Cybersecurity, Blockchain**
-- ⚡ Fun fact: I enjoy **Tech Fests & Competitive Gaming**
+Aspiring **Cybersecurity and Full Stack Development professional** pursuing **B.Tech in Computer Science and Engineering (Cybersecurity)** at **NIIT University**. Interested in developing **secure software systems, blockchain applications, and AI-driven security solutions**.
 
 ---
 
-## 🌐 Connect With Me
+# 🎓 Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/thammisetty-venkata-dhruvil)
+**B.Tech – Computer Science and Engineering (Cybersecurity)**  
+NIIT University, Rajasthan  
+2023 – 2027
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/dhruvilthammisetty05)
-
----
-
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![Ethereum](https://img.shields.io/badge/Ethereum-black?logo=ethereum)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+Relevant Coursework
+- Network Security
+- Database Management Systems
+- Ethical Hacking
+- Operating Systems
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Technical Skills
 
-![Dhruvil GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvilthammisetty05&show_icons=true&theme=tokyonight)
+### Programming
+C • Java (OOP) • Python • JavaScript
+
+### Web Development
+Node.js • Express.js • React.js
+
+### Cybersecurity Tools
+Kali Linux • Nmap • Zphisher • Social Engineering Toolkit • SHA-256
+
+### Blockchain
+Solidity • Web3.js • IPFS
+
+### Databases & Tools
+MongoDB • MySQL • Git • Jenkins
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 Featured Projects
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvilthammisetty05&theme=tokyonight)
+## 🔗 Digital Forensic Evidence Chain Management System
+
+- Developed a **blockchain-based web application** to securely record digital evidence.
+- Implemented **SHA-256 hashing** for tamper-proof verification.
+- Designed a **decentralized chain-of-custody system** using smart contracts.
+
+**Tech:** Node.js, Express.js, React.js, MongoDB, Solidity, Web3.js, IPFS
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛡 ML Driven DDoS Mitigation System
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dhruvilthammisetty05&theme=onedark)
+- Designed a **machine learning system** to detect abnormal network traffic.
+- Implemented **automatic IP blocking and rate limiting**.
+- Built a **self-hosted security solution** for improved privacy.
+
+**Tech:** Python, Machine Learning, Network Traffic Analysis
 
 ---
 
-## 📈 Most Used Languages
+## ❤️ Smart Healthcare Monitoring System
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvilthammisetty05&layout=compact&theme=tokyonight)
+- Developed an **IoT-based patient monitoring system**.
+- Enabled **real-time vital tracking using sensors**.
+- Integrated cloud monitoring.
+
+**Tech:** Arduino, Embedded C, Sensors, Cloud Integration
+
+---
+
+# 👨‍🏫 Leadership Experience
+
+### Project Mentor — NIIT University
+
+- Guided students on **fuel consumption optimization using Lagrange multipliers**.
+- Assisted with **Python simulations, model validation, and documentation**.
+
+### Capstone Project Coordinator
+
+- Managed **team collaboration and task allocation**.
+- Tracked project progress and ensured milestone completion.
+
+---
+
+# 🏆 Achievements
+
+🏆 **Winner – Techtacular Category**  
+siNUsoid V7 Tech Fest – NIIT University  
+
+Team: **MedTech Mavericks**
+
+---
+
+# 🎓 Certifications
+
+- Cisco **Ethical Hacker**
+- IBM **Introduction to Cybersecurity**
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvilthammisetty05&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvilthammisetty05&theme=tokyonight)
+
+---
+
+# 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvilthammisetty05&layout=compact&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: dhruvilthammisetty2005@gmail.com  
+
+💼 LinkedIn  
+https://linkedin.com/in/thammisetty-venkata-dhruvil  
+
+🐙 GitHub  
+https://github.com/dhruvilthammisetty05  
+
+📍 India
+
+---
+
+⭐ *"Security is not a feature — it is a design principle."*
